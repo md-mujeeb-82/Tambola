@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path:  lib/cmu_time_awb.jar lib/cmu_us_kal.jar lib/cmudict04.jar lib/cmulex.jar lib/cmutimelex.jar lib/en_us.jar lib/freetts.jar lib/freetts-jsapi10.jar lib/jsapi.jar lib/mbrola.jar lib/jl1.0.1.jar
+Main-Class: Main
+
